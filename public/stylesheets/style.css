@@ -8,7 +8,7 @@ a {
 }
 
 .mountain {
-  background-image: url("https://images.unsplash.com/photo-1469392144641-a5e2856c91cb?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=d23575f89433533229450651a3a41da1") !important;
+  background-image: url("../images/mountains.jpeg") !important;
   min-height: 200px;
   background-attachment: fixed;
   background-position: center;
@@ -17,7 +17,7 @@ a {
 }
 
 .ocean {
-  background-image: url("https://images.unsplash.com/photo-1470173338995-686045dfb20a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=ca8165179b654e13c95f34c24be386e1") !important;
+  background-image: url("../images/ocean.jpeg") !important;
   min-height: 200px;
   background-attachment: fixed;
   background-position: center;
@@ -26,7 +26,7 @@ a {
 }
 
 .jungle {
-  background-image: url("https://images.unsplash.com/photo-1475333017476-3482638e685b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=01a933192bc57fdeae4a0819ca794334") !important;
+  background-image: url("../images/jungle.jpeg") !important;
   min-height: 200px;
   background-attachment: fixed;
   background-position: center;
