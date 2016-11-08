@@ -6,3 +6,37 @@ body {
 a {
   color: #00B7FF;
 }
+
+.mountain {
+  background-image: url("https://images.unsplash.com/photo-1469392144641-a5e2856c91cb?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=d23575f89433533229450651a3a41da1") !important;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ocean {
+  background-image: url("https://images.unsplash.com/photo-1470173338995-686045dfb20a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=ca8165179b654e13c95f34c24be386e1") !important;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bio {
+  color: #777;
+  background-color:white;
+  text-align:center;
+  padding:50px 80px;
+  text-align: justify;"
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
