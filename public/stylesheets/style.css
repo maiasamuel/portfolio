@@ -9,7 +9,7 @@ a {
 
 .mountain {
   background-image: url("https://images.unsplash.com/photo-1469392144641-a5e2856c91cb?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=d23575f89433533229450651a3a41da1") !important;
-  min-height: 500px;
+  min-height: 375px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -18,7 +18,16 @@ a {
 
 .ocean {
   background-image: url("https://images.unsplash.com/photo-1470173338995-686045dfb20a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=ca8165179b654e13c95f34c24be386e1") !important;
-  min-height: 500px;
+  min-height: 375px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jungle {
+  background-image: url("https://images.unsplash.com/photo-1475333017476-3482638e685b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&s=01a933192bc57fdeae4a0819ca794334") !important;
+  min-height: 375px;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -34,6 +43,14 @@ a {
 }
 
 h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+h5 {
   text-align: center;
 }
 
